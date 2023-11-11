@@ -1,0 +1,22 @@
+p {
+    width: 327px;
+}
+h1{
+    width: 327px;
+    font-size: 28px;
+        line-height: 36px;
+        letter-spacing: -0.292px;
+        height: 80px;
+}
+@media (min-width:800px) {
+    h1{
+        width: 525px;
+        font-size: 50px;
+            line-height: 55px;
+            letter-spacing: -0.521px;
+            height: 131px;
+    }
+    p{
+        width: 525px;
+    }
+}
